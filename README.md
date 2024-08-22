@@ -1,6 +1,8 @@
 # Memoteca
 
-![alt text](image.png)
+<p align="center">
+  <img src="./demonstracao.gif" alt="Animação da tela de login">
+</p>
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.3.
 

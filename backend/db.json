@@ -3,50 +3,38 @@
     {
       "id": "1",
       "conteudo": "Devs não têm bugs, apenas recursos não documentados.",
-      "autoria": "Ana Maria, Engenheira de Software",
+      "autoria": "Ana Maria,",
       "modelo": "modelo1"
     },
     {
       "id": "2",
       "conteudo": "Se a 'build' está falhando, é só um jeito do código pedir mais atenção.",
-      "autoria": "João Carlos, Desenvolvedor Full-Stack",
+      "autoria": "João Carlo",
       "modelo": "modelo2"
     },
     {
       "id": "3",
-      "conteudo": "Café é apenas um compilador que roda na veia dos devs.",
-      "autoria": "Fernanda Silva, Programadora",
+      "conteudo": "Café é apenas um compilador que roda na veia dos devs. teste",
+      "autoria": "Fernanda Silva",
       "modelo": "modelo3"
     },
     {
       "id": "4",
       "conteudo": "O código perfeito não existe... até o cliente pedir uma alteração.",
-      "autoria": "Pedro Gomes, Desenvolvedor Back-End",
+      "autoria": "Pedro Gomes",
       "modelo": "modelo1"
     },
     {
       "id": "5",
       "conteudo": "Refatorar é a arte de tornar o código de ontem menos vergonhoso hoje.",
-      "autoria": "Lucas Mendes, DevOps",
+      "autoria": "Lucas Mendes",
       "modelo": "modelo2"
     },
     {
       "id": "6",
       "conteudo": "Ser desenvolvedor é como ser um mago moderno. Você escreve palavras incompreensíveis para muitos, mas que têm o poder de transformar ideias em realidade. Mas, claro, como todo mago, você também enfrenta suas maldições: os bugs aparecem nos momentos mais inesperados, e cada nova tecnologia é um novo feitiço a ser dominado.",
-      "autoria": "Clara Rodrigues, Engenheira de Software Sênior",
+      "autoria": "Clara Rodrigues",
       "modelo": "modelo3"
-    },
-    {
-      "id": "7",
-      "conteudo": "O trabalho de um desenvolvedor vai muito além de apenas escrever código. Ele envolve resolver problemas, entender as necessidades dos usuários e traduzir tudo isso em uma solução funcional. Às vezes, o código pode parecer uma linguagem secreta, mas é a chave que abre portas para a inovação e transforma o mundo digital à nossa volta.",
-      "autoria": "Felipe Souza, Arquiteto de Software",
-      "modelo": "modelo1"
-    },
-    {
-      "id": "10",
-      "conteudo": "Continue a codar... continue a codar... continue a codar...",
-      "autoria": "Dory programadora",
-      "modelo": "modelo2"
     }
   ]
 }
